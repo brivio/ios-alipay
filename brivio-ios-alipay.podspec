@@ -17,4 +17,5 @@ Pod::Spec.new do |s|
   s.vendored_frameworks  = 'source/**/*.framework'
   s.resources='source/**/*.bundle'
   s.header_mappings_dir='source/include'
+  s.frameworks='SystemConfiguration'
 end
