@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "brivio-ios-alipay"
+  s.name             = "ios-alipay"
   s.version          = "0.1.0"
   s.summary          = "alipay for ios development"
 
